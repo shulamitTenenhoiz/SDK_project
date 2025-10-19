@@ -26,5 +26,33 @@ C:\Users\1\Desktop\שולמית\project\ConsoleApplication1\ConsoleApplication1\
 C:\Users\1\Desktop\שולמית\project\ConsoleApplication1\ConsoleApplication1\sdk\include\DVR_NET_SDK.h(2315,1): warning C4819: The file contains a character that cannot be represented in the current code page (1255). Save the file in Unicode format to prevent data loss
   (compiling source file 'ConsoleApplication1.cpp')
   
+  DeviceManager.cpp
+C:\Users\1\Desktop\שולמית\project\ConsoleApplication1\ConsoleApplication1\sdk\include\DVR_NET_SDK.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (1255). Save the file in Unicode format to prevent data loss
+  (compiling source file 'DeviceManager.cpp')
+  
+C:\Users\1\Desktop\שולמית\project\ConsoleApplication1\ConsoleApplication1\sdk\include\dvrdvstypedef.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (1255). Save the file in Unicode format to prevent data loss
+  (compiling source file 'DeviceManager.cpp')
+  
+C:\Users\1\Desktop\שולמית\project\ConsoleApplication1\ConsoleApplication1\sdk\include\dvrdvsconfig.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (1255). Save the file in Unicode format to prevent data loss
+  (compiling source file 'DeviceManager.cpp')
+  
+C:\Users\1\Desktop\שולמית\project\ConsoleApplication1\ConsoleApplication1\sdk\include\dvrdvsdefine.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (1255). Save the file in Unicode format to prevent data loss
+  (compiling source file 'DeviceManager.cpp')
+  
+C:\Users\1\Desktop\שולמית\project\ConsoleApplication1\ConsoleApplication1\sdk\include\DisplayDefine.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (1255). Save the file in Unicode format to prevent data loss
+  (compiling source file 'DeviceManager.cpp')
+  
+C:\Users\1\Desktop\שולמית\project\ConsoleApplication1\ConsoleApplication1\sdk\include\DVR_NET_SDK.h(746,1): warning C4819: The file contains a character that cannot be represented in the current code page (1255). Save the file in Unicode format to prevent data loss
+  (compiling source file 'DeviceManager.cpp')
+  
+C:\Users\1\Desktop\שולמית\project\ConsoleApplication1\ConsoleApplication1\sdk\include\DVR_NET_SDK.h(1436,1): warning C4819: The file contains a character that cannot be represented in the current code page (1255). Save the file in Unicode format to prevent data loss
+  (compiling source file 'DeviceManager.cpp')
+  
+C:\Users\1\Desktop\שולמית\project\ConsoleApplication1\ConsoleApplication1\sdk\include\DVR_NET_SDK.h(2010,1): warning C4819: The file contains a character that cannot be represented in the current code page (1255). Save the file in Unicode format to prevent data loss
+  (compiling source file 'DeviceManager.cpp')
+  
+C:\Users\1\Desktop\שולמית\project\ConsoleApplication1\ConsoleApplication1\sdk\include\DVR_NET_SDK.h(2315,1): warning C4819: The file contains a character that cannot be represented in the current code page (1255). Save the file in Unicode format to prevent data loss
+  (compiling source file 'DeviceManager.cpp')
+  
   ConsoleApplication1.vcxproj -> C:\Users\1\Desktop\שולמית\project\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
           1 file(s) copied.
